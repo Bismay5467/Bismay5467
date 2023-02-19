@@ -56,7 +56,8 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 
 <br />
 
-[![Bismay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bismay5467&show_icons=true&theme=merko)](https://github.com/Bismay5467)
+[![Bismay's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Bismay5467&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/Bismay5467)
+[![Bismay's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Bismay5467&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Bismay5467)
 
 <br />
 
@@ -64,7 +65,8 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bismay5467&langs_count=8&layout=compact&theme=merko)](https://github.com/Bismay5467)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=bismay5467&langs_count=8&layout=compact&theme=merko#gh-dark-mode-only)](https://github.com/Bismay5467)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=bismay5467&langs_count=8&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Bismay5467)
 
 </details>
 
