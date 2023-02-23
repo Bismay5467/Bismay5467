@@ -1,21 +1,17 @@
 ## **Hi, I'm Bismay** <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-<text style = "font-family: Verdana; letter-spacing : 1px; color : ">
 A passionate, curious self-taught full stack Web Developer from India. My passion for software lies with dreaming up ideas and making them true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-</text>
 <br /><br />
 
-<ul style = "font-family: Verdana; letter-spacing : 1px">
-    <li>🎓 Currently a freshman at National Institute of Technology, Suratkhal.</li>
-    <li>🌐 Working on Web Dev Projects.</li>
-    <li>🌱 I'm currently learning about microservices.</li>
-    <li>🧑‍💻 Most used line of code : <code>git push -u origin main</code>.</li>
-    <li>💞 I’m looking to collaborate with other developers in community.</li>
-    <li>💬 Ask me about anything, I am happy to help. 😊</li>
-    <li>📫 How to reach me: <a href="mailto:bismaypurkayastha5467@gmail.com">bismaypurkayastha5467@gmail.com</a></li>
-    <li>⚡ Successful investing is about managing risk, not avoiding it.</li>
-</ul>
-<br />
+- 🎓 Currently a freshman at National Institute of Technology, Suratkhal.
+- 🌐 Working on Web Dev Projects.
+- 🌱 I'm currently learning about microservices.
+- 🧑‍💻 Most used line of code : `git push -u origin main`.
+- 💞 I’m looking to collaborate with other developers in community.
+- 💬 Ask me about anything, I am happy to help. 😊
+- 📫 How to reach me: bismaypurkayastha5467@gmail.com
+- ⚡ Successful investing is about managing risk, not avoiding it.
+<br /><br />
 
 ## **Connect with me :** 
 
