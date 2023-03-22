@@ -16,11 +16,11 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 ## **Connect with me :** 
 
 <a href = "https://www.linkedin.com/in/bismay-purkayastha-4a63a6179/" target = "_blank">
-    <img src = "https://img.icons8.com/3d-fluency/256/linkedin.png" alt = "linkedin.com" width="60px">
+    <img src = "assets\linkedin-icon.png" alt = "linkedin.com" width="60px">
 </a> <a href = "https://www.instagram.com/bismaypurkayastha/" target = "_blank">
-    <img src = "https://img.icons8.com/3d-fluency/256/instagram-new.png" alt = "instgram.com" width="60px">
+    <img src = "assets\instagram-icon.png" alt = "instgram.com" width="60px">
 </a> <a href = "https://github.com/Bismay5467" target = "_blank">
-    <img src = "https://img.icons8.com/3d-fluency/256/github.png" alt = "github.com" width="60px">
+    <img src = "assets\github-icon.png" alt = "github.com" width="60px">
 </a>
 
 <br />
