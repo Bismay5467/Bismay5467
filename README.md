@@ -6,7 +6,7 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 - 🎓 Currently a freshman at National Institute of Technology, Suratkhal.
 - 🌐 Working on Web Dev Projects.
 - 🌱 I'm currently learning about microservices.
-- 🧑‍💻 Most used line of code : `git push -u origin main`.
+- 🧑‍💻 Most used line of code : `git push origin dev`.
 - 💞 I’m looking to collaborate with other developers in community.
 - 💬 Ask me about anything, I am happy to help. 😊
 - 📫 How to reach me: bismaypurkayastha5467@gmail.com
