@@ -3,7 +3,7 @@
 A passionate, curious self-taught full stack Web Developer from India. My passion for software lies with dreaming up ideas and making them true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <br /><br />
 
-- 🎓 Currently a freshman at National Institute of Technology, Suratkhal.
+- 🎓 Currently a sophomore at National Institute of Technology, Suratkhal.
 - 🌐 Working on Web Dev Projects.
 - 🌱 I'm currently learning about microservices.
 - 🧑‍💻 Most used line of code : `git push origin dev`.
