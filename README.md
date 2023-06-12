@@ -41,7 +41,7 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
     <img width="94" height="80" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" alt="click to view my resume"/>
 </a>
 
-<br />
+<br /><br />
 
 <details>
     <summary style = "font-family: Verdana; letter-spacing : 1px">More stuff about me</summary>
