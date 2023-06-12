@@ -16,11 +16,11 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 ## **Connect with me :** 
 
 <a href = "https://www.linkedin.com/in/bismay-purkayastha-4a63a6179/" target = "_blank">
-    <img src = "assets\linkedin-icon.png" alt = "linkedin.com" width="60px">
+    <img width="60" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin.com"/>
 </a> <a href = "https://www.instagram.com/bismaypurkayastha/" target = "_blank">
-    <img src = "assets\instagram-icon.png" alt = "instgram.com" width="60px">
+    <img width="60" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram.com"/>
 </a> <a href = "https://github.com/Bismay5467" target = "_blank">
-    <img src = "assets\github-icon.png" alt = "github.com" width="60px">
+    <img width="60" src="https://img.icons8.com/3d-fluency/1500/github.png" alt="github.com"/>
 </a>
 
 <br />
@@ -33,7 +33,13 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 
 <img src = "https://img.icons8.com/color/256/firebase.png" alt = "firebase" width="80px"> <img src = "https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt = "insomnia" width="80px"> <img src = "https://brandslogos.com/wp-content/uploads/images/mocha-logo-1.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/git.png" alt = "git" width="80px"> <img src = "https://cdn-icons-png.flaticon.com/512/906/906324.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/docker.png" alt = "docker" width="80px">
 
-<!-- TODO : UPLOAD RESUME -->
+<br />
+
+## **Click to view my resume :**
+
+<a href = "https://drive.google.com/file/d/1SO3Ye4UPy59PQ-b0utgusBAhghJ9EPez/view?usp=sharing" target = "_blank">
+    <img width="94" height="80" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" alt="click to view my resume"/>
+</a>
 
 <br />
 
