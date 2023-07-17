@@ -19,8 +19,8 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
     <img width="60" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin.com"/>
 </a> <a href = "https://www.instagram.com/bismaypurkayastha/" target = "_blank">
     <img width="60" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram.com"/>
-</a> <a href = "https://github.com/Bismay5467" target = "_blank">
-    <img width="60" src="https://img.icons8.com/3d-fluency/1500/github.png" alt="github.com"/>
+</a> <a href = "https://discordapp.com/users/846760767583551508" target = "_blank">
+    <img width="60" src="https://img.icons8.com/3d-fluency/94/discord-logo.png" alt="discord.com"/>
 </a>
 
 <br />
