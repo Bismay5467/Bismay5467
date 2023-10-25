@@ -13,6 +13,8 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 - ⚡ Successful investing is about managing risk, not avoiding it.
 <br /><br />
 
+[![An image of @bismay5467's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bismay5467)](https://holopin.io/@bismay5467)
+
 ## **Connect with me :** 
 
 <a href = "https://www.linkedin.com/in/bismay-purkayastha-4a63a6179/" target = "_blank">
