@@ -39,7 +39,7 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 
 ## **Click to view my resume :**
 
-<a href = "https://drive.google.com/file/d/1SO3Ye4UPy59PQ-b0utgusBAhghJ9EPez/view?usp=sharing" target = "_blank">
+<a href = "https://drive.google.com/file/d/1n25ep9CvTLeQNszrsP4x5rrqdy6mXD61/view?usp=sharing" target = "_blank">
     <img width="94" height="80" src="https://img.icons8.com/nolan/64/parse-from-clipboard.png" alt="click to view my resume"/>
 </a>
 
