@@ -36,7 +36,7 @@ A passionate, curious self-taught full stack Web Developer from India. My passio
 
 
 
-<img src = "https://img.icons8.com/color/256/firebase.png" alt = "firebase" width="80px"> <img src = "https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt = "insomnia" width="80px"> <img src = "https://brandslogos.com/wp-content/uploads/images/mocha-logo-1.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/git.png" alt = "git" width="80px"> <img src = "https://cdn-icons-png.flaticon.com/512/906/906324.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/docker.png" alt = "docker" width="80px">
+<img src = "https://img.icons8.com/color/256/firebase.png" alt = "firebase" width="80px"> <img src = "https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt = "insomnia" width="80px"> <img src = "https://brandslogos.com/wp-content/uploads/images/mocha-logo-1.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/git.png" alt = "git" width="80px"> <img src = "https://cdn-icons-png.flaticon.com/512/906/906324.png" alt = "mocha" width="80px"> <img src = "https://img.icons8.com/color/256/docker.png" alt = "docker" width="80px"> <img width="80" height="80" src="https://img.icons8.com/fluency/96/grafana.png" alt="grafana"/>
 
 <br />
 
